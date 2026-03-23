@@ -4,7 +4,7 @@
 
 npm install
 
-Copie o `.env.example` para `.env` e preencha o `ACCESS_TOKEN`:
+Copie o `.env.example` para `.env` e preencha o `ACCESS_TOKEN`
 
 Execute:
 
