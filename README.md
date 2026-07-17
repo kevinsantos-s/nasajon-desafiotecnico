@@ -1,7 +1,11 @@
 # 🗺️ Municipio Radar
 
-Aplicação em TypeScript que enriquece dados de municípios brasileiros 
-cruzando um arquivo CSV com a API pública do IBGE.
+Aplicação em TypeScript que resolve o problema de padronização e enriquecimento 
+de dados geográficos brasileiros. Dado um arquivo CSV com nomes de municípios 
+escritos de forma inconsistente — com erros de digitação, ausência de acentos 
+ou nomes duplicados — a aplicação cruza automaticamente esses dados com a API 
+oficial do IBGE, retornando o nome oficial, UF, região e código de cada município, 
+além de calcular estatísticas populacionais por região.
 
 ## O que faz
 
